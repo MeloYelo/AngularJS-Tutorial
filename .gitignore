@@ -1,0 +1,4 @@
+packages
+*.suo
+AngularJS-Tutorial/bin/*
+AngularJS-Tutorial/obj/*
